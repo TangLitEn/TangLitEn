@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TangLitEn
-- 👀 I’m interested in Electronics and Robotics (and Embedded System)
-- 🌱 I’m currently learning blender and also competitive codings
+- 👀 I’m interested in Artificial Intelligence and Robotics!
 - 📫 Reach me through email: tangliten512@gmail.com OR e200011@e.ntu.edu.sg
 
 <!---
